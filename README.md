@@ -1,0 +1,2 @@
+# UWD
+ Personal learning + practice from Brad Hussey's fullstack Web Designer/Developer Course on Udemy. I started this course on September 1, 2022. Phase I of the course was largely focused on UI/UX Design using tools like Figma and Affinity Suite. I've spent the last months wireframing, designing, logos, flyers and mockups. I progressed to Phase II on April 2, 2023 starting with basic HTML. Looking forward to CSS, JavaScript, SQL and all the other cool stuff in waiting.
