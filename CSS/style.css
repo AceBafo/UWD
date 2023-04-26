@@ -1,0 +1,27 @@
+body {
+    background-color: #D21312;
+    color: #F0F0F0;
+}
+
+h1 {
+    font-size: 50px;
+    font-family: Hepta Slab, Georgia, serif;
+}
+
+/* font-family property plus its associated values collectively are referred to as the font stack. What it simply does is to tell the browser what hierarchy of fonts the page should be rendered in, starting from left to right. */
+
+h2 {
+    font-size: 30px;
+        font-family: Raleway, Urbanist, sans-serif;
+}
+
+p {
+    font-size: 20px;
+    font-family: Raleway, Urbanist, sans-serif;
+    font-style: italic;
+}
+
+ol {
+    margin: 20px;
+    padding: 20px;
+}
